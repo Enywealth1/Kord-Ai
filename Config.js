@@ -4,7 +4,7 @@ global.settings = {
   OWNER_NUMBERS: "2349041696721", // your number with country code
   OWNER_NAME: 'Enywealth', // your owner name 
   BOT_NAME: "KORD", // your preferred bot name
-  SESSION_ID: '', // put your session id between the ''
+  SESSION_ID: 'kord_ai-kouFbXFoN50O', // put your session id between the ''
   INVINCIBLE_MODE: false, // toogle invincible mode 
   WORK_MODE: "Public",
   TIME_ZONE: "Africa/Lagos",
